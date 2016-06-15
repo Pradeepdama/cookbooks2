@@ -1,0 +1,11 @@
+Version control for - git hub/SVN
+
+GIT Commands/ create GIT account/ configure GIT HUB.
+
+
+Jenkins
+
+contunious integration--
+
+
+chef server- 
